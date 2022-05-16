@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="en-US" class="html_stretched responsive av-preloader-active av-preloader-enabled  html_header_top html_logo_left html_main_nav_header html_menu_right html_custom html_header_sticky html_header_shrinking_disabled html_mobile_menu_tablet html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch html_minimal_header html_minimal_header_shadow html_elegant-blog html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-minimal html_av-submenu-noclone html_entry_id_2666 av-cookies-no-cookie-consent av-default-lightbox av-no-preview html_text_menu_active av-mobile-menu-switch-default">
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v17.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Top 10 Computer Security Threats to Business IT in 2021 - Guardian Computer</title>
+	<meta name="description" content="Start protecting your organization today with Guardian Computer! Learn about the top 10 computer security threats to business IT in 2021." />
+	<link rel="canonical" href="https://www.gcit.net/blog/computer-security-threats-business-it" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Top 10 Computer Security Threats to Business IT in 2021 - Guardian Computer" />
+	<meta property="og:description" content="Start protecting your organization today with Guardian Computer! Learn about the top 10 computer security threats to business IT in 2021." />
+	<meta property="og:url" content="https://www.gcit.net/blog/computer-security-threats-business-it" />
+	<meta property="og:site_name" content="Guardian Computer" />
+	<meta property="article:published_time" content="2021-07-14T16:00:00+00:00" />
+	<meta property="article:modified_time" content="2021-09-02T17:56:32+00:00" />
+	<meta property="og:image" content="https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d.jpg" />
+	<meta property="og:image:width" content="1236" />
+	<meta property="og:image:height" content="848" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Guardian Computer" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="13 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.gcit.net/#organization","name":"Guardian Computer IT","url":"https://www.gcit.net/","sameAs":["https://www.linkedin.com/company/guardian-computer/"],"logo":{"@type":"ImageObject","@id":"https://www.gcit.net/#logo","inLanguage":"en-US","url":"https://www.gcit.net/wp-content/uploads/2018/02/GC-Logo.png","contentUrl":"https://www.gcit.net/wp-content/uploads/2018/02/GC-Logo.png","width":2000,"height":844,"caption":"Guardian Computer IT"},"image":{"@id":"https://www.gcit.net/#logo"}},{"@type":"WebSite","@id":"https://www.gcit.net/#website","url":"https://www.gcit.net/","name":"Guardian Computer","description":"For businesses in need of IT support who want to be treated as top priority without a VIP member fee, Guardian Computer provides customized IT services with a personal touch that makes every customer feel like a VIP.","publisher":{"@id":"https://www.gcit.net/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.gcit.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.gcit.net/blog/computer-security-threats-business-it#primaryimage","inLanguage":"en-US","url":"https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d.jpg","contentUrl":"https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d.jpg","width":1236,"height":848,"caption":"Graphic of a hacker on a digital background, representing today's computer security threats."},{"@type":"WebPage","@id":"https://www.gcit.net/blog/computer-security-threats-business-it#webpage","url":"https://www.gcit.net/blog/computer-security-threats-business-it","name":"Top 10 Computer Security Threats to Business IT in 2021 - Guardian Computer","isPartOf":{"@id":"https://www.gcit.net/#website"},"primaryImageOfPage":{"@id":"https://www.gcit.net/blog/computer-security-threats-business-it#primaryimage"},"datePublished":"2021-07-14T16:00:00+00:00","dateModified":"2021-09-02T17:56:32+00:00","description":"Start protecting your organization today with Guardian Computer! Learn about the top 10 computer security threats to business IT in 2021.","breadcrumb":{"@id":"https://www.gcit.net/blog/computer-security-threats-business-it#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.gcit.net/blog/computer-security-threats-business-it"]}]},{"@type":"BreadcrumbList","@id":"https://www.gcit.net/blog/computer-security-threats-business-it#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gcit.net/home"},{"@type":"ListItem","position":2,"name":"Top 10 Computer Security Threats to Business IT in 2021"}]},{"@type":"Article","@id":"https://www.gcit.net/blog/computer-security-threats-business-it#article","isPartOf":{"@id":"https://www.gcit.net/blog/computer-security-threats-business-it#webpage"},"author":{"@id":"https://www.gcit.net/#/schema/person/76d444dbc5b3c96941a6dd4e5960d07d"},"headline":"Top 10 Computer Security Threats to Business IT in 2021","datePublished":"2021-07-14T16:00:00+00:00","dateModified":"2021-09-02T17:56:32+00:00","mainEntityOfPage":{"@id":"https://www.gcit.net/blog/computer-security-threats-business-it#webpage"},"wordCount":2439,"publisher":{"@id":"https://www.gcit.net/#organization"},"image":{"@id":"https://www.gcit.net/blog/computer-security-threats-business-it#primaryimage"},"thumbnailUrl":"https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d.jpg","articleSection":["Security"],"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.gcit.net/#/schema/person/76d444dbc5b3c96941a6dd4e5960d07d","name":"Guardian Computer","url":"https://www.gcit.net/blog/author/onlineoptimism"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Guardian Computer &raquo; Feed" href="https://www.gcit.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="Guardian Computer &raquo; Comments Feed" href="https://www.gcit.net/comments/feed" />
+
+<!-- google webfont font replacement -->
+
+			<script type="e89bb633b00a1e926bbe82b9-text/javascript">
+
+				(function() {
+
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= '//fonts.googleapis.com/css?family=Open+Sans:400,600';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+
+			</script>
+					<script type="e89bb633b00a1e926bbe82b9-text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.gcit.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='avia-grid-css'  href='https://www.gcit.net/wp-content/themes/enfold/css/grid.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css'  href='https://www.gcit.net/wp-content/themes/enfold/css/base.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css'  href='https://www.gcit.net/wp-content/themes/enfold/css/layout.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-audioplayer-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-blog-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-postslider-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-buttonrow-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-fullwidth-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-catalogue-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/catalogue/catalogue.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-comments-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-contact-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-contentpartner-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contentslider/contentslider.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-countdown-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-hor-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-maps-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/google_maps/google_maps.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gridrow-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-heading-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-rotator-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hr-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icon-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon/icon.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconbox-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconbox/iconbox.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icongrid-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconlist-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-image-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hotspot-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-magazine-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-masonry-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-siteloader-css'  href='https://www.gcit.net/wp-content/themes/enfold/css/avia-snippet-site-preloader.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-menu-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-notification-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-numbers-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-portfolio-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-post-metadata-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-progress-bar-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-promobox-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/promobox/promobox.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-sc-search-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/search/search.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-accordion-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-feature-image-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullsize-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullscreen-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-ls-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-social-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabsection-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-table-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/table/table.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabs-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-team-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/team/team.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-testimonials-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-timeline-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-toggles-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-video-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.gcit.net/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.gcit.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css'  href='https://www.gcit.net/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=2.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://www.gcit.net/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=2.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='uaf_client_css-css'  href='https://www.gcit.net/wp-content/uploads/useanyfont/uaf.css?ver=1637853280' type='text/css' media='all' />
+<link rel='stylesheet' id='testimonial-rotator-style-css'  href='https://www.gcit.net/wp-content/plugins/testimonial-rotator/testimonial-rotator-style.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.gcit.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css'  href='https://www.gcit.net/wp-content/themes/enfold/css/shortcodes.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css'  href='https://www.gcit.net/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=4.8.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-lightbox-css'  href='https://www.gcit.net/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=4.8.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-widget-css-css'  href='https://www.gcit.net/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=4.8.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='https://www.gcit.net/wp-content/uploads/dynamic_avia/enfold.css?ver=6179c515431ac' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css'  href='https://www.gcit.net/wp-content/themes/enfold/css/custom.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-gravity-css'  href='https://www.gcit.net/wp-content/themes/enfold/config-gravityforms/gravity-mod.css?ver=4.8.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='ecs-styles-css'  href='https://www.gcit.net/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3157-css'  href='https://www.gcit.net/wp-content/uploads/elementor/css/post-3157.css?ver=1634135038' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3191-css'  href='https://www.gcit.net/wp-content/uploads/elementor/css/post-3191.css?ver=1631735753' type='text/css' media='all' />
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" id='cookie-law-info-js-extra'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#3a79e8","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"1","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/www.gcit.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=2.0.6' id='cookie-law-info-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.13.1' id='gtm4wp-form-move-tracker-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/plugins/testimonial-rotator/js/jquery.cycletwo.js?ver=5.8.2' id='cycletwo-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/plugins/testimonial-rotator/js/jquery.cycletwo.addons.js?ver=5.8.2' id='cycletwo-addons-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/avia-compat.js?ver=4.8.7' id='avia-compat-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" id='ecs_ajax_load-js-extra'>
+/* <![CDATA[ */
+var ecs_ajax_params = {"ajaxurl":"https:\/\/www.gcit.net\/wp-admin\/admin-ajax.php","posts":"{\"page\":0,\"name\":\"computer-security-threats-business-it\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"post_type\":[\"post\",\"page\",\"e-landing-page\"],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"20\",\"no_found_rows\":false,\"order\":\"DESC\"}"};
+/* ]]> */
+</script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=3.1.3' id='ecs_ajax_load-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=3.1.3' id='ecs-script-js'></script>
+<link rel="https://api.w.org/" href="https://www.gcit.net/wp-json/" /><link rel="alternate" type="application/json" href="https://www.gcit.net/wp-json/wp/v2/posts/2666" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.gcit.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.gcit.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.gcit.net/?p=2666' />
+<link rel="alternate" type="application/json+oembed" href="https://www.gcit.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gcit.net%2Fblog%2Fcomputer-security-threats-business-it" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.gcit.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gcit.net%2Fblog%2Fcomputer-security-threats-business-it&#038;format=xml" />
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href='https://fonts.googleapis.com/css2?display=swap&family=Average+Sans&family=Average' rel='stylesheet'>			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v8.4.329-->
+			<script type="e89bb633b00a1e926bbe82b9-text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "blog-post"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script type="e89bb633b00a1e926bbe82b9-text/javascript">
+				(function() {
+					var hbspt = window.hbspt = window.hbspt || {};
+					hbspt.forms = hbspt.forms || {};
+					hbspt._wpFormsQueue = [];
+					hbspt.enqueueForm = function(formDef) {
+						if (hbspt.forms && hbspt.forms.create) {
+							hbspt.forms.create(formDef);
+						} else {
+							hbspt._wpFormsQueue.push(formDef);
+						}
+					}
+					if (!window.hbspt.forms.create) {
+						Object.defineProperty(window.hbspt.forms, 'create', {
+							configurable: true,
+							get: function() {
+								return hbspt._wpCreateForm;
+							},
+							set: function(value) {
+								hbspt._wpCreateForm = value;
+								while (hbspt._wpFormsQueue.length) {
+									var formDef = hbspt._wpFormsQueue.shift();
+									if (!document.currentScript) {
+										var formScriptId = 'leadin-forms-v2-js';
+										hubspot.utils.currentScript = document.getElementById(formScriptId);
+									}
+									hbspt._wpCreateForm.call(hbspt.forms, formDef);
+								}
+							},
+						});
+					}
+				})();
+			</script>
+		
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["security"],"pagePostAuthor":"Guardian Computer"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5D4X6T4');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Guardian Computer RSS2 Feed" href="https://www.gcit.net/feed" />
+<link rel="pingback" href="https://www.gcit.net/xmlrpc.php" />
+
+<style type='text/css' media='screen'>
+ #top #header_main > .container, #top #header_main > .container .main_menu  .av-main-nav > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:50px; line-height: 50px; }
+ .html_top_nav_header .av-logo-container{ height:50px;  }
+ .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:50px; } 
+</style>
+<!--[if lt IE 9]><script src="https://www.gcit.net/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="https://www.gcit.net/wp-content/uploads/2018/01/guardian-logo-no-text-large-300x256.png" type="image/png">
+
+<!-- To speed up the rendering and to display the site as fast as possible to the user we include some styles and scripts for above the fold content inline -->
+<script type="e89bb633b00a1e926bbe82b9-text/javascript">'use strict';var avia_is_mobile=!1;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)&&'ontouchstart' in document.documentElement){avia_is_mobile=!0;document.documentElement.className+=' avia_mobile '}
+else{document.documentElement.className+=' avia_desktop '};document.documentElement.className+=' js_active ';(function(){var e=['-webkit-','-moz-','-ms-',''],n='';for(var t in e){if(e[t]+'transform' in document.documentElement.style){document.documentElement.className+=' avia_transform ';n=e[t]+'transform'};if(e[t]+'perspective' in document.documentElement.style){document.documentElement.className+=' avia_transform3d '}};if(typeof document.getElementsByClassName=='function'&&typeof document.documentElement.getBoundingClientRect=='function'&&avia_is_mobile==!1){if(n&&window.innerHeight>0){setTimeout(function(){var e=0,o={},a=0,t=document.getElementsByClassName('av-parallax'),i=window.pageYOffset||document.documentElement.scrollTop;for(e=0;e<t.length;e++){t[e].style.top='0px';o=t[e].getBoundingClientRect();a=Math.ceil((window.innerHeight+i-o.top)*0.3);t[e].style[n]='translate(0px, '+a+'px)';t[e].style.top='auto';t[e].className+=' enabled-parallax '}},50)}}})();</script><link rel="icon" href="https://www.gcit.net/wp-content/uploads/2018/01/cropped-guardian-logo-no-text-large-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.gcit.net/wp-content/uploads/2018/01/cropped-guardian-logo-no-text-large-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.gcit.net/wp-content/uploads/2018/01/cropped-guardian-logo-no-text-large-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.gcit.net/wp-content/uploads/2018/01/cropped-guardian-logo-no-text-large-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.avia-caption-title { text-transform: none !important; }
+#top .aviaccordion-title {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: none;
+}
+#top .avia-slideshow-button {padding: 25px 50px 23px;
+font-size: 15px;
+min-width: 250px;}
+.avia-slideshow .avia-button:hover { background: #439ad2 !important; color: white !important; }
+.button_cheight a{
+    height: 140px;
+}
+.current_page_item a {
+        color:#000!important;
+}
+.avia-testimonial-image, .avia-testimonial-image img { border-radius: 0; }
+
+p{
+	font-size: 18px;
+}
+
+/*@media screen and (max-width: 600px){
+	h1{
+		font-size: 60px !important;
+	}
+}*/
+
+footer .container{
+	padding-bottom: 45px !important;
+}
+
+.responsive .container {
+    max-width: 1000px;
+}
+
+#footer .widget{
+	margin: 0;
+}
+
+.button_cheight a{
+    height: 140px;
+}
+.elementor-widget-container ul {
+list-style: disc;
+margin-left: 40px;
+}
+.elementor-widget:not(:last-child) {
+    margin-bottom: 0px!important;
+}
+.gform_heading {
+    display: none;
+}		</style>
+			<style id="egf-frontend-styles" type="text/css">
+		p {font-family: 'Average Sans', sans-serif;font-style: normal;font-weight: 400;} h2 {} h1 {font-family: 'Average Sans', sans-serif;font-style: normal;font-weight: 400;} h3 {line-height: 1.1;} h4 {} h6 {} h5 {} 	</style>
+	<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+url('https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+url('https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'),
+url('https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg'),
+url('https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot'),
+url('https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.8.7
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 4.8
+aviaElementManager Version: 1.0.1
+ML:512-PU:33-PLA:24
+WP:5.8.2
+Compress: CSS:disabled - JS:disabled
+Updates: enabled - token has changed and not verified
+PLAu:23
+-->
+</head>
+
+<body id="top" class="post-template-default single single-post postid-2666 single-format-standard stretched rtl_columns av-curtain-numeric open_sans  avia-responsive-images-support elementor-default elementor-kit-2461" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5D4X6T4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div class='av-siteloader-wrap '><div class='av-siteloader-inner'><div class='av-siteloader-cell'><div class='av-siteloader'><div class='av-siteloader-extra'></div></div></div></div></div>
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_custom av_header_sticky av_header_shrinking_disabled av_header_stretch av_mobile_menu_tablet av_header_searchicon_disabled av_header_unstick_top_disabled av_minimal_header av_minimal_header_shadow av_bottom_nav_disabled  av_alternate_logo_active av_header_border_disabled'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo avia-standard-logo'><a href='https://www.gcit.net/' class=''><img src="https://www.gcit.net/wp-content/uploads/2018/03/GC-Logotransparent-300x127.png" height="100" width="300" alt='Guardian Computer' title='' /></a></span><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-1"><a href="https://www.gcit.net/services" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Services</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-303" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/services/#networking" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Networking</span></a></li>
+	<li id="menu-item-304" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/services/#security" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Security</span></a></li>
+	<li id="menu-item-306" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/services/#help-desk-support" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Help Desk Support</span></a></li>
+	<li id="menu-item-305" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/services/#cloud-management" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Cloud Management</span></a></li>
+	<li id="menu-item-307" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/services/#due-diligence" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Due Diligence</span></a></li>
+	<li id="menu-item-882" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/services/#data-back-up--recovery" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Data Back Up and Recovery</span></a></li>
+</ul>
+</li>
+<li id="menu-item-740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="https://www.gcit.net/managed-it" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Managed IT Services</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3"><a href="https://www.gcit.net/industries" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Industries</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-301" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/industries/#architecture--construction" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Architecture and Construction</span></a></li>
+	<li id="menu-item-297" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/industries/#finance" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Finance</span></a></li>
+	<li id="menu-item-299" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/industries/#healthcare" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Healthcare</span></a></li>
+	<li id="menu-item-888" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/industries/#legal" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Legal</span></a></li>
+	<li id="menu-item-887" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/industries/#manufacturing" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Manufacturing</span></a></li>
+	<li id="menu-item-298" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.gcit.net/industries/#turnaround-management" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Turnaround Management</span></a></li>
+</ul>
+</li>
+<li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-4"><a href="https://www.gcit.net/about-us" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">About</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-3322" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.gcit.net/our-team" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Our Team</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5 current-menu-item"><a href="https://www.gcit.net/blog" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Blog</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://www.gcit.net/clients" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Client Access</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-7"><a href="https://www.gcit.net/contact-us" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Contact</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li class="av-burger-menu-main menu-item-avia-special av-small-burger-icon">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+
+	<div id='main' class='all_colors' data-scroll-offset='50'>
+
+	
+		<div class='container_wrap container_wrap_first main_color sidebar_right'>
+
+			<div class='container template-blog template-single-blog '>
+
+				<main class='content units av-content-small alpha  av-blog-meta-comments-disabled'  role="main" itemscope="itemscope" itemtype="https://schema.org/Blog" >
+
+                    <article class='post-entry post-entry-type-standard post-entry-2666 post-loop-1 post-parity-odd post-entry-last single-big with-slider post-2666 post type-post status-publish format-standard has-post-thumbnail hentry category-security'  itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost" ><div class='blog-meta'></div><div class='entry-content-wrapper clearfix standard-content'><header class="entry-content-header"><div class="av-heading-wrapper"><span class="blog-categories minor-meta"><a href="https://www.gcit.net/blog/category/security" rel="tag">Security</a> </span><h1 class='post-title entry-title '  itemprop="headline" >Top 10 Computer Security Threats to Business IT in 2021<span class="post-format-icon minor-meta"></span></h1></div></header><span class="av-vertical-delimiter"></span><div class="big-preview single-big"  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><a href="https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d-1030x707.jpg" data-srcset="https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d-1030x707.jpg 1030w, https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d-300x206.jpg 300w, https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d-768x527.jpg 768w, https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d-705x484.jpg 705w, https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d-450x309.jpg 450w, https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d.jpg 1236w" data-sizes="(max-width: 1030px) 100vw, 1030px"  title="Top 10 Computer Security Threats to Business IT in 2020" ><img width="845" height="321" src="https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d-845x321.jpg" class="wp-image-2667 avia-img-lazy-loading-2667 attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt="Graphic of a hacker on a digital background, representing today&#039;s computer security threats." loading="lazy" /></a></div><div class="entry-content"  itemprop="text" >
+<p>No matter if you love technology, hate it, or fall somewhere in between, there’s no doubt it is becoming a bigger part of your life. Our digital world is expanding as more people work from home and more companies conduct their business online. But as our digital activity increases, so does criminals’ desire to take advantage of it, leading to new advancements in computer security threats and digital crime.</p>
+
+
+
+<p>In the last few years, major companies across the globe have experienced cybercrimes ranging from data breaches, to unauthorized access of financial accounts, to digital impersonations of CEOs, and everything in between. From new online stores to established corporations, companies of all types, sizes, and industries are at risk.</p>
+
+
+
+<p>Although cybercriminals are continuing to become smarter and more strategic, it’s also clear that many businesses aren’t putting up much of a fight when it comes to their cybersecurity. It’s up to you to protect your organization and make sure it’s investing in its security. <a href="https://www.gcit.net/about-us" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">It’s up to us, as IT experts</a>, to provide you with the information, resources, and services necessary to help make that happen.</p>
+
+
+
+<h2>3 Major Trends for Computer Security Threats in 2021</h2>
+
+
+
+<p>Thinking about all the new and varied cyberthreats your company faces today can quickly feel overwhelming. Where should you begin, and how can you make sure you’re staying informed?</p>
+
+
+
+<p>To get started, we’ve identified 3 major trends for computer security threats in 2021 that all businesses should be aware of, so you can watch out for them in whatever form they may take.</p>
+
+
+
+<h3>1. Disruption</h3>
+
+
+
+<p>Disrupting your business is a powerful way for cybercriminals to distract you, cost you time and money, bait you into making quick and unsecure fixes, or put you at their mercy. For instance, they can use premeditated internet outages to disrupt your organization, hampering business functions and employee productivity.</p>
+
+
+
+<p>Cybercriminals can also cause disruption with ransomware attacks, which have increased in popularity over recent years. In these attacks, hackers gain access to information you need, either because it is necessary to run your business or because it is sensitive information you don’t want leaked. Either way, the hackers hold your data hostage and demand you pay a ransom to get it back.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://lh4.googleusercontent.com/FnrhSI6YaRbTq_qoaiw2SxODI8wcO2-a-tDZ11IpOkjWlfCpmBytqFeFNnsGRllKz6DLDc8HAeSZch1T_mcWLsnZfKeQcsGtX40LW3d2RQfjd52UdAGVuNhiSXz6oAIRd9evjf0S" alt="" width="450" height="390"/></figure></div>
+
+
+
+<h3>2. Distortion</h3>
+
+
+
+<p>With the development of technology comes the development of bots and vehicles of misinformation. This could cause more members of the public to distrust the integrity of information they encounter. Or it could cause the opposite: people might mistakenly trust false information.</p>
+
+
+
+<p>In either case, it’s often bad for business. It makes it difficult to communicate with consumers or maintain their trust, especially if cybercriminals have falsified information about you or impersonated you.</p>
+
+
+
+<p>Hackers are distorting the data and technologies businesses use, too. For instance, criminals who hack into your company cloud might upload fake documents that instruct employees to move money into the hackers’ account or compromise your security even further.</p>
+
+
+
+<h3>3. Deterioration</h3>
+
+
+
+<p>The deterioration of a company’s complete control over its business practices can open it up to a variety of risks, which cybercriminals are quick to take advantage of. For example, more and more businesses are implementing AI to increase their efficiency. But if you deploy untested AI, it could lead to unexpected outcomes, including higher exposure to cybercrimes.</p>
+
+
+
+<p>Rapid technological advancement can also mean new federal laws to regulate it, lessening companies’ control. Many expect that increases in surveillance laws could put corporations at risk of having their information exposed. Increased privacy regulations can prevent businesses from effectively monitoring employees, making it harder to <a href="https://www.gcit.net/blog/top-5-concerns-companies-should-know-2021" target="_blank" rel="noreferrer noopener">identify any insider threats</a>.</p>
+
+
+
+<h2>Top 10 Computer Security Threats to Prepare for in 2021</h2>
+
+
+
+<p>Strengthening your cybersecurity means being proactive and staying one step ahead of cybercriminals. This starts with identifying which threats are most likely to impact companies this year.</p>
+
+
+
+<p>Browse our top 3 in the infographic below, or read on for more information about all top 10 computer security threats to prepare for in 2021.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="468" height="1030" src="https://www.gcit.net/wp-content/uploads/2021/07/Top-3-Computer-Security-Threats-to-Business-IT-468x1030.png" alt="An infographic with our top 3 computer security threats to business IT." class="wp-image-3077" srcset="https://www.gcit.net/wp-content/uploads/2021/07/Top-3-Computer-Security-Threats-to-Business-IT-468x1030.png 468w, https://www.gcit.net/wp-content/uploads/2021/07/Top-3-Computer-Security-Threats-to-Business-IT-136x300.png 136w, https://www.gcit.net/wp-content/uploads/2021/07/Top-3-Computer-Security-Threats-to-Business-IT-768x1689.png 768w, https://www.gcit.net/wp-content/uploads/2021/07/Top-3-Computer-Security-Threats-to-Business-IT-698x1536.png 698w, https://www.gcit.net/wp-content/uploads/2021/07/Top-3-Computer-Security-Threats-to-Business-IT-931x2048.png 931w, https://www.gcit.net/wp-content/uploads/2021/07/Top-3-Computer-Security-Threats-to-Business-IT-682x1500.png 682w, https://www.gcit.net/wp-content/uploads/2021/07/Top-3-Computer-Security-Threats-to-Business-IT-320x705.png 320w, https://www.gcit.net/wp-content/uploads/2021/07/Top-3-Computer-Security-Threats-to-Business-IT.png 1081w" sizes="(max-width: 468px) 100vw, 468px" /></figure></div>
+
+
+
+<h3>1. Phishing Attacks</h3>
+
+
+
+<p>In a phishing attack, a hacker pretends to be someone you trust, such as your boss or your bank. Most commonly, the hacker emails you from a familiar—but slightly altered—email address.</p>
+
+
+
+<p>Typically, the hacker emails you a link or attachment. They ask you to go to a website, log into your account, or enter your personal information, such as your Social Security or bank account number. In 2019, <a href="https://www.proofpoint.com/us/security-awareness/post/verizons-2019-dbir-phishing-top-threat-action" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">phishing was responsible for 32% of confirmed data breaches and 78% of all cybercrimes</a>.</p>
+
+
+
+<p>This year, cybercriminals have managed to create <a aria-label="undefined (opens in a new tab)" href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/phishing-in-the-cloud/" target="_blank" rel="noreferrer noopener">phishing schemes through companies’ cloud applications</a>. Because of the crime’s relative newness and the implicit trust that employees have in their companies, cloud-based phishing is one of the top cybercrimes that companies need to look out for in 2021.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://lh5.googleusercontent.com/dwY4GIVE7MErSZ357d8Wdz_kREGVJb57qvTsm6GH4dS_OyEWfBOypbbZjAH7K9NqFXO998_kaDX7MCuF1AsxjsO9rTjJXsZXBZI6TqAObB6DOUqgUzN5WypID7A0JaNbWonCK3Jj" alt="A hacker with a fishing rod hooked onto a stranger's ID across the globe, representing phishing attacks, one of the top computer security threats to business IT in 2020." width="550" height="367"/></figure></div>
+
+
+
+<h3>2. Cloud Jacking</h3>
+
+
+
+<p>Cloud jacking is the process by which <a href="https://www.gcit.net/blog/cloud-technology-businesses" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">cloud computing</a> is infiltrated by a third party. Once a hacker gets into your company cloud, they may try to reconfigure the cloud code to manipulate sensitive data, eavesdrop on employees and company communications, and expand their reach to take control of the entire cloud.</p>
+
+
+
+<p>As we mentioned earlier, cybercriminals will also use this as an opportunity to create phishing schemes. In these scenarios, cybercriminals upload fake memos, instructions, or other files to the company cloud. Employees, believing these materials are approved by the company, download the malicious files or follow the fake instructions.</p>
+
+
+
+<p>This can result in everything from workers granting hackers greater company access, to releasing sensitive data, to even moving company funds into fraudulent accounts.</p>
+
+
+
+<h3>3. Network Perimeter and Endpoint Security</h3>
+
+
+
+<p><a href="https://www.gcit.net/blog/best-cyber-security-practices-for-travelers" target="_blank" rel="noreferrer noopener">From traveling salesmen</a> to equity investors, professionals who work remotely can be at <a href="https://www.gcit.net/blog/security-assessment-challenges-in-a-distributed-environment" target="_blank" rel="noreferrer noopener">risk from inadequate network perimeter and endpoint security</a>. As more and more workers have had to switch to remote work in 2021, these security issues become bigger targets for hackers.</p>
+
+
+
+<p>Remote work environments often lack many of the security measures put in place at your company’s workplace. With network perimeter and endpoint security, we are referring to measures that secure your computer network and its connections to various computers, phones, tablets, servers, databases, and more.</p>
+
+
+
+<p>Mobile devices, which professionals often use to conduct business on the road, are often <a href="https://www.csoonline.com/article/3268109/the-rise-of-mobile-phishing-attacks-and-how-to-combat-them.html#:~:text=%E2%80%9CUsers%20on%20a%20mobile%20device,Wandera%2C%20a%20mobile%20security%20vendor" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">more exposed to phishing schemes</a> because of the ways we interact with these devices. Fast-paced communications and interactions can make people more prone to click on links, playing right into phishing schemes. Experts predict that many data breaches will occur through telecommuters, mobile devices, and off-premises assets.</p>
+
+
+
+<p>Even after COVID-related restrictions lift, many workers will not be returning to company offices. In the U.S., <a href="https://news.gallup.com/poll/306695/workers-discovering-affinity-remote-work.aspx" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">59% of employees working from home during the pandemic say they prefer to work remotely</a>. Some companies have already announced they are switching to a permanent remote workforce, making adequate network perimeter and endpoint security critically important for years to come.</p>
+
+
+
+<h3>4. Mobile Malware</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://lh6.googleusercontent.com/MVuj2Vcxqiaatme3twISuTYsDqBvgWq7a3j-3iRV7xClF1st2H-Gfc4xNAzri-Ee91zvrOhpASS9y4TLYDd8PGwbsckOHGGbrKyceNuaeo4DtqtJINj0BJUPdhU_UUfIHgktiupB" alt="A smartphone with security lock icons, representing one of the top computer security threats in 2020: mobile malware." width="550" height="349"/></figure></div>
+
+
+
+<p>It’s not just remote employees who use mobile devices for work. Many professionals are increasingly moving from desktops to laptops or smartphones for some or all of their work.</p>
+
+
+
+<p>Mobile malware is a type of software used specifically on mobile devices for malicious purposes. As larger amounts of <a href="https://www.gcit.net/blog/why-mobile-security-is-important" target="_blank" rel="noreferrer noopener">sensitive company data are being accessed and stored on mobile devices</a>, mobile malware attacks are very likely to be one of the most pertinent cybersecurity threats this year.</p>
+
+
+
+<h3>5. 5G-to-Wi-Fi Security Vulnerabilities</h3>
+
+
+
+<p>As cyberattacks continue to become more and more sophisticated, attacks are likely to take place in newer digital spheres. In particular, we expect to see cybercriminals exploring ways to attack the 5G-to-Wi-Fi handover.</p>
+
+
+
+<p>As 5G becomes more and more commonly used, wireless providers are handing off more calls and data to Wi-Fi networks in an attempt to save bandwidth. And because of this rapid growth in 5G, the technology used to protect this handover is not yet developed enough to fully protect the transition. This gives opportunities to cybercriminals to compromise these mobile devices.</p>
+
+
+
+<p>Areas that are popular for professionals to <a href="https://www.gcit.net/blog/is-it-safe-to-use-public-wifi-with-a-vpn" target="_blank" rel="noreferrer noopener">perform mobile work—such as airports, cafes, and hotels</a>—are hotspots for the 5G-to-Wi-Fi handover. This puts the voice and data information on these mobile devices at greater risk. And while these devices have built-in technologies that allow this transition to occur quietly and without notice, <a aria-label="undefined (opens in a new tab)" href="https://www.computerweekly.com/news/252474990/Hackers-primed-to-exploit-5G-to-Wi-Fi-handover-flaws" target="_blank" rel="noreferrer noopener">researchers have already found vulnerabilities in such technologies</a>.</p>
+
+
+
+<h3>6. Internet of Things (IoT) Devices</h3>
+
+
+
+<p>Many everyday devices, such as fitness trackers, smart security systems, and even some in-car apps, are IoT devices. Simply put, these devices are used to communicate and exchange information over a network without requiring human involvement.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://lh4.googleusercontent.com/FZe37J8VnyU_KqUynM9YP9OU4OBCpNweIGGTGRWsX9MlV0p_vRjU7hapkduSO2ej70OHZwW-I9kBQqzPQpT5ONDnxOC21nowoWNQgRb6asVq_dwWznLqy0Lmmt_4n28V2ZR6eRtI" alt="A digital concept for Internet of Things devices, one of our top computer security threats in 2020, with icons for laptop, mobile, home, email, home appliance, Bluetooth, automobile, and more." width="550" height="367"/></figure></div>
+
+
+
+<p>For instance, your fitness tracker collects information about your health and exercise, such as your heart rate, steps taken, and calories burned. That data is sent to the cloud and processed. Under certain circumstances, that data might result in an action initiated by the technology. You might periodically receive graphs that show your fitness trends and progress, or you might be sent an alert if your heart rate is too high.</p>
+
+
+
+<p>It’s not news that our world is increasingly reliant on these devices. In fact, <a href="https://www.prnewswire.com/news-releases/internet-of-things-iot-market-worth-1319-08-billion-globally-by-2026-at-25-68-cagr-verified-market-research-301092982.html#:~:text=According%20to%20Verified%20Market%20Research,USD%201%2C319.08%20Billion%20by%202026" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">predictions indicate that the market will grow another billion dollars by 2026</a>. With such a major increase in new technologies, cybercriminals are likely to target IoT devices that experience security issues, as technologies in their infancy often do.</p>
+
+
+
+<p>While many of the most common IoT devices are personal or smart home devices, more and more businesses are taking advantage of IoT. Smart locks, connected security cameras, smart thermostats, smart lights, voice assistants, and more are appearing in the workplace. As more company information passes through these devices, more hackers may begin targeting them.</p>
+
+
+
+<p>The IoMT, or Internet of Medical Things, is a collection of medical devices and applications that can connect to healthcare IT systems using network technologies. Due to the valuable personal information available through IoMT, as well as <a href="https://healthtechmagazine.net/article/2020/02/what-makes-iomt-devices-so-difficult-secure-perfcon" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">IoMT’s unique security issues</a>, it is especially likely that cybercriminals will target these devices.</p>
+
+
+
+<h3>7. Deepfakes</h3>
+
+
+
+<p>Deepfakes have been increasingly used against a variety of individuals and industries over the last several years. A deepfake is produced by artificial intelligence that takes an existing video, photo, or voice recording and manipulates someone’s image or voice to falsify their actions or speech. In fact, deepfakes have been popularly utilized in politics to make candidates appear to say or do something that damages their reputation.</p>
+
+
+
+<p>As it relates to businesses, experts predict that deepfakes will be used by cybercriminals to impersonate members of a company to gain access to important information. These “synthetic identities” can be used to commit fraud, as hackers create fake versions of real companies to lure in unsuspecting consumers. Deepfakes can also contribute to more advanced forms of phishing, allowing hackers to more convincingly impersonate CEOs and give harmful instructions to employees.</p>
+
+
+
+<h3>8. Highly Developed Ransomware Attacks</h3>
+
+
+
+<p>Ransomware has plagued businesses for several years now. Successful attacks have caused companies to lose millions of dollars in ransom payments, encouraging hackers to keep using and refining these attacks.</p>
+
+
+
+<p><a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-labs-2019-threats-predictions/" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">According to a McAfee prediction report</a>, the process by which attackers are able to purchase ransomware kits on the darkweb is becoming easier. Not to mention, the ransomware itself is becoming increasingly more sophisticated.</p>
+
+
+
+<p>The report also predicts that ransomwares will consolidate into fewer—but more powerful—ransomwares that will work in conjunction with one another. By working together in this manner, attackers become even more capable and pose greater threats to businesses. If attacked by these ransomware powerhouses, companies may experience <a href="https://www.gcit.net/blog/cost-of-network-downtime" target="_blank" rel="noreferrer noopener">even greater costs from downtime</a> and recovery.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://lh4.googleusercontent.com/Gf11S83P0KljJol974tv7Qqz4_2azGcRTopvGaSPCs7no5rH_rsN2wwuYSpCQmc7errTuiL0qI_j5HqqABHtrorMf9sIPyo8I9ZQ-w5-nDLk-M8Bml21qBhZ198YTk9_pERkHIRZ" alt="" width="550" height="379"/></figure></div>
+
+
+
+<h3>9. Insider Threats</h3>
+
+
+
+<p><a href="https://techjury.net/blog/insider-threat-statistics/#gref" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">Insider threats, or threats posed by employees, affect 34% of businesses</a> around the world. These employees may be acting intentionally to hurt the company or accidentally, out of ignorance or negligence. As more employees move to remote work, which opens them up to additional risks, organizations should take extra precautions to curb insider threats.</p>
+
+
+
+<p>Fortunately, there are specialized tools available to combat insider threats. These tools can detect unauthorized logins, the installation of new apps on locked down computers, users with newly granted authorization access, and new devices on restricted networks. In addition, businesses should provide all employees with routine cybersecurity training to help prevent these mistakes before they’re ever made.</p>
+
+
+
+<h3>10. API Vulnerabilities and Breaches</h3>
+
+
+
+<p>An application programming interface (API) is an intermediary between applications. It determines how apps can interact with one another. APIs work behind the scenes in many everyday applications, from streaming services to social media, weather apps, instant messaging, and more.</p>
+
+
+
+<p>The security used for APIs is typically less advanced than web app security. This is true for most organizations. As a result, APIs are often not made accessible to the public or outside developers.</p>
+
+
+
+<p>Because so many companies are becoming more reliant on APIs, attacks on these systems—and the need for API security—should increase this year.</p>
+
+
+
+<h2>Protect Your Business IT with Guardian Computer</h2>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://lh5.googleusercontent.com/t_5Xrs6f4XC9VSwxSjKv6Priv5KWSINiFWjU4ySVX2eV5i9TEztjvngfnXavEjr_6fgOZWpbS0W4AVDwuClSSff1yclbC1uMYHKMqHU2iaM6TnE9iu2QMGqCC6iCcLGS2Hz1hQqa" alt="" width="600" height="400"/></figure></div>
+
+
+
+<p>If this sounds like a full-time job—from staying informed about the latest computer security threats and cybersecurity trends, to identifying and prioritizing your business’ biggest risks, to addressing current threats and protecting against others before they ever reach your business—that’s because it is! And it’s a job our IT experts perform day in and day out, with over 100 years of combined experience in the tech solutions industry.</p>
+
+
+
+<p>Guardian Computer is a full-service IT provider. Whether you need help with a single IT project or want us to fully manage your IT, <a href="https://www.gcit.net/services" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">we have a wide range of services</a> to meet your every need. We also provide both in-office and remote assistance. Even if you’re across the country from our homebase in New Orleans, we’re ready to hop on a plane to meet your needs, whatever and wherever they are.</p>
+
+
+
+<p>The IT solutions we offer are every bit as varied and sophisticated as the computer security threats facing business IT. To give you an idea of how we can help protect your organization, here is a small sample of our services:</p>
+
+
+
+<ul><li><strong>Patch enabalation and vulnerability management</strong> to keep your systems up to date and protected.</li><li><strong><a href="https://www.gcit.net/blog/the-importance-of-multiple-backups" target="_blank" rel="noreferrer noopener">System and SaaS backup</a></strong> so your data can be quickly and easily recovered in the event of a ransomware attack, <a href="https://www.gcit.net/blog/it-hurricane-preparedness-plan" target="_blank" rel="noreferrer noopener">natural disaster</a>, or any other issue.</li><li><strong>Installation of <a href="https://www.gcit.net/blog/computer-virus-myths-busted" target="_blank" rel="noreferrer noopener">advanced antivirus and anti-malware</a></strong> to keep your systems secure.</li><li><strong><a href="https://www.gcit.net/blog/top-benefits-of-mobile-device-management" target="_blank" rel="noreferrer noopener">Protection for all remotely used mobile devices</a></strong> with a full suite of security software, including a firewall, malware protection, and more.</li><li><strong>Emergency response team availability</strong> in case of a data breach.</li></ul>
+
+
+
+<p>For more information, <a href="https://www.gcit.net/managed-it">check out our IT managed services</a> as well as the <a href="https://www.gcit.net/blog/two-factor-authentication-save-business-money">IT solutions we offer to keep companies safe</a> from computer security threats.</p>
+
+
+
+<p>Ready to talk to someone on our team? <a href="https://www.gcit.net/contact-us">Contact us today to learn how Guardian Computer can protect your business!</a></p>
+</div><span class='post-meta-infos'><time class='date-container minor-meta updated' >July 14, 2021</time><span class='text-sep text-sep-date'>/</span><span class="blog-author minor-meta">by <span class="entry-author-link"  itemprop="author" ><span class="author"><span class="fn"><a href="https://www.gcit.net/blog/author/onlineoptimism" title="Posts by Guardian Computer" rel="author">Guardian Computer</a></span></span></span></span></span><footer class="entry-footer"><div class='av-social-sharing-box av-social-sharing-box-default av-social-sharing-box-fullwidth'><div class="av-share-box"><h5 class='av-share-link-description av-no-toc '>Share this entry</h5><ul class="av-share-box-list noLightbox"><li class='av-share-link av-social-link-facebook' ><a target="_blank" aria-label="Share on Facebook" href='https://www.facebook.com/sharer.php?u=https://www.gcit.net/blog/computer-security-threats-business-it&#038;t=Top%2010%20Computer%20Security%20Threats%20to%20Business%20IT%20in%202021' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Facebook' rel="noopener"><span class='avia_hidden_link_text'>Share on Facebook</span></a></li><li class='av-share-link av-social-link-twitter' ><a target="_blank" aria-label="Share on Twitter" href='https://twitter.com/share?text=Top%2010%20Computer%20Security%20Threats%20to%20Business%20IT%20in%202021&#038;url=https://www.gcit.net/?p=2666' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Twitter' rel="noopener"><span class='avia_hidden_link_text'>Share on Twitter</span></a></li><li class='av-share-link av-social-link-whatsapp' ><a target="_blank" aria-label="Share on WhatsApp" href='https://api.whatsapp.com/send?text=https://www.gcit.net/blog/computer-security-threats-business-it' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on WhatsApp' rel="noopener"><span class='avia_hidden_link_text'>Share on WhatsApp</span></a></li><li class='av-share-link av-social-link-pinterest' ><a target="_blank" aria-label="Share on Pinterest" href='https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.gcit.net%2Fblog%2Fcomputer-security-threats-business-it&#038;description=Top%2010%20Computer%20Security%20Threats%20to%20Business%20IT%20in%202021&#038;media=https%3A%2F%2Fwww.gcit.net%2Fwp-content%2Fuploads%2F2020%2F07%2FRYFSp2d-705x484.jpg' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Pinterest' rel="noopener"><span class='avia_hidden_link_text'>Share on Pinterest</span></a></li><li class='av-share-link av-social-link-linkedin' ><a target="_blank" aria-label="Share on LinkedIn" href='https://linkedin.com/shareArticle?mini=true&#038;title=Top%2010%20Computer%20Security%20Threats%20to%20Business%20IT%20in%202021&#038;url=https://www.gcit.net/blog/computer-security-threats-business-it' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on LinkedIn' rel="noopener"><span class='avia_hidden_link_text'>Share on LinkedIn</span></a></li><li class='av-share-link av-social-link-tumblr' ><a target="_blank" aria-label="Share on Tumblr" href='https://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.gcit.net%2Fblog%2Fcomputer-security-threats-business-it&#038;name=Top%2010%20Computer%20Security%20Threats%20to%20Business%20IT%20in%202021&#038;description=Start%20protecting%20your%20organization%20today.%20Learn%20about%20the%20top%2010%20computer%20security%20threats%20to%20business%20IT.' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Tumblr' rel="noopener"><span class='avia_hidden_link_text'>Share on Tumblr</span></a></li><li class='av-share-link av-social-link-reddit' ><a target="_blank" aria-label="Share on Reddit" href='https://reddit.com/submit?url=https://www.gcit.net/blog/computer-security-threats-business-it&#038;title=Top%2010%20Computer%20Security%20Threats%20to%20Business%20IT%20in%202021' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Reddit' rel="noopener"><span class='avia_hidden_link_text'>Share on Reddit</span></a></li><li class='av-share-link av-social-link-mail' ><a aria-label="Share by Mail" href="/cdn-cgi/l/email-protection#132c606671797670672e477c633621232223362123507c7e636667766136212340767066617a676a362123477b6176726760362123677c3621235166607a7d7660603621235a473621237a7d36212321232122353023202b28717c776a2e7b67676360293c3c6464643d74707a673d7d76673c717f7c743c707c7e63666776613e60767066617a676a3e677b61767267603e7166607a7d7660603e7a67" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share by Mail'><span class='avia_hidden_link_text'>Share by Mail</span></a></li></ul></div></div></footer><div class='post_delimiter'></div></div><div class='post_author_timeline'></div><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://www.gcit.net/wp-content/uploads/2020/07/RYFSp2d.jpg</span>
+						<span itemprop='height'>848</span>
+						<span itemprop='width'>1236</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Guardian Computer</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://www.gcit.net/wp-content/uploads/2018/03/GC-Logotransparent-300x127.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Guardian Computer</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2021-07-14T16:00:00+00:00" >2021-07-14 16:00:00</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2021-09-02 17:56:32</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Top 10 Computer Security Threats to Business IT in 2021</span></span></span></article><div class='single-big'></div>
+
+
+
+
+<div class='comment-entry post-entry'>
+
+
+</div>
+				<!--end content-->
+				</main>
+
+				<aside class='sidebar sidebar_right   alpha units'  role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" ><div class='inner_sidebar extralight-border'><section id="search-2" class="widget clearfix widget_search">
+
+<form action="https://www.gcit.net/" id="searchform" method="get" class="">
+	<div>
+		<input type="text" id="s" name="s" value="" placeholder='Search' />
+		<input type="submit" value="" id="searchsubmit" class="button avia-font-entypo-fontello" />
+			</div>
+</form>
+<span class="seperator extralight-border"></span></section>
+		<section id="recent-posts-2" class="widget clearfix widget_recent_entries">
+		<h3 class="widgettitle">Recent Posts</h3>
+		<ul>
+											<li>
+					<a href="https://www.gcit.net/blog/msp-benefits">How Does an MSP Benefit Your Business?</a>
+									</li>
+											<li>
+					<a href="https://www.gcit.net/blog/window-11-update">Should You Update to Windows 11?</a>
+									</li>
+											<li>
+					<a href="https://www.gcit.net/blog/fastest-growing-msps-2021">Guardian Computer Recognized as One of the Fastest Growing MSPs</a>
+									</li>
+											<li>
+					<a href="https://www.gcit.net/blog/8-major-tech-issues-and-how-to-prevent-them">8 Major Tech Issues (And How to Prevent Them)</a>
+									</li>
+											<li>
+					<a href="https://www.gcit.net/blog/ranked-2021-lsu-100">Guardian Computer Ranked on the 2021 LSU 100</a>
+									</li>
+					</ul>
+
+		<span class="seperator extralight-border"></span></section><section id="archives-2" class="widget clearfix widget_archive"><h3 class="widgettitle">Archives</h3>
+			<ul>
+					<li><a href='https://www.gcit.net/blog/2021/11'>November 2021</a></li>
+	<li><a href='https://www.gcit.net/blog/2021/10'>October 2021</a></li>
+	<li><a href='https://www.gcit.net/blog/2021/09'>September 2021</a></li>
+	<li><a href='https://www.gcit.net/blog/2021/08'>August 2021</a></li>
+	<li><a href='https://www.gcit.net/blog/2021/07'>July 2021</a></li>
+	<li><a href='https://www.gcit.net/blog/2021/06'>June 2021</a></li>
+	<li><a href='https://www.gcit.net/blog/2021/05'>May 2021</a></li>
+	<li><a href='https://www.gcit.net/blog/2021/04'>April 2021</a></li>
+	<li><a href='https://www.gcit.net/blog/2021/03'>March 2021</a></li>
+	<li><a href='https://www.gcit.net/blog/2021/02'>February 2021</a></li>
+	<li><a href='https://www.gcit.net/blog/2020/12'>December 2020</a></li>
+	<li><a href='https://www.gcit.net/blog/2020/11'>November 2020</a></li>
+	<li><a href='https://www.gcit.net/blog/2020/10'>October 2020</a></li>
+	<li><a href='https://www.gcit.net/blog/2020/09'>September 2020</a></li>
+	<li><a href='https://www.gcit.net/blog/2020/08'>August 2020</a></li>
+	<li><a href='https://www.gcit.net/blog/2018/12'>December 2018</a></li>
+	<li><a href='https://www.gcit.net/blog/2018/11'>November 2018</a></li>
+	<li><a href='https://www.gcit.net/blog/2018/10'>October 2018</a></li>
+	<li><a href='https://www.gcit.net/blog/2018/09'>September 2018</a></li>
+	<li><a href='https://www.gcit.net/blog/2017/03'>March 2017</a></li>
+	<li><a href='https://www.gcit.net/blog/2017/02'>February 2017</a></li>
+	<li><a href='https://www.gcit.net/blog/2016/11'>November 2016</a></li>
+	<li><a href='https://www.gcit.net/blog/2016/10'>October 2016</a></li>
+			</ul>
+
+			<span class="seperator extralight-border"></span></section><section id="categories-2" class="widget clearfix widget_categories"><h3 class="widgettitle">Categories</h3>
+			<ul>
+					<li class="cat-item cat-item-17"><a href="https://www.gcit.net/blog/category/best-practices">Best Practices</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="https://www.gcit.net/blog/category/guardian-computer">Guardian Computer</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://www.gcit.net/blog/category/networking">Networking</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://www.gcit.net/blog/category/opinion">Opinion</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://www.gcit.net/blog/category/security">Security</a>
+</li>
+			</ul>
+
+			<span class="seperator extralight-border"></span></section></div></aside>
+
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+				<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column   first el_before_'><section id="text-2" class="widget clearfix widget_text">			<div class="textwidget"><p><a href="https://www.channelfutures.com/msp-501/2020-msp-501-rankings" target="_blank" rel="noopener"><img loading="lazy" class="size-medium wp-image-2751 aligncenter" src="https://www.gcit.net/wp-content/uploads/2021/07/2020-MSP-501-Winner-300x232.png" alt="" width="300" height="66" /></a></p>
+</div>
+		<span class="seperator extralight-border"></span></section></div>
+					</div>
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+	
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'>© Copyright 2020 - Guardian Computer </span>
+
+                        <nav class='sub_menu_socket'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia3-menu"><ul id="avia3-menu" class="menu"><li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-top-level menu-item-top-level-1"><a href="https://www.gcit.net/" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="https://www.gcit.net/services" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Services</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-3"><a href="https://www.gcit.net/managed-it" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Managed IT Services</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-4"><a href="https://www.gcit.net/about-us" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">About</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="https://www.gcit.net/clients" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Client Access</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://www.gcit.net/contact-us" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Contact</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-7 current-menu-item"><a href="https://www.gcit.net/blog" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Blog</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-8"><a href="https://www.gcit.net/sitemap" itemprop="url" role="menuitem" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Sitemap</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+</ul></div></nav>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+
+		<a class='avia-post-nav avia-post-prev with-image' href='https://www.gcit.net/blog/how-to-use-sharepoint-effectively' >    <span class='label iconfont' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>    <span class='entry-info-wrap'>        <span class='entry-info'>            <span class='entry-title'>How to Use SharePoint Effectively for Your Business</span>            <span class='entry-image'><img width="80" height="80" src="https://www.gcit.net/wp-content/uploads/2021/06/How-to-Use-SharePoint-Effectively-for-Your-Business-80x80.jpeg" class="wp-image-2978 avia-img-lazy-loading-2978 attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://www.gcit.net/wp-content/uploads/2021/06/How-to-Use-SharePoint-Effectively-for-Your-Business-80x80.jpeg 80w, https://www.gcit.net/wp-content/uploads/2021/06/How-to-Use-SharePoint-Effectively-for-Your-Business-36x36.jpeg 36w, https://www.gcit.net/wp-content/uploads/2021/06/How-to-Use-SharePoint-Effectively-for-Your-Business-180x180.jpeg 180w" sizes="(max-width: 80px) 100vw, 80px" /></span>        </span>    </span></a><a class='avia-post-nav avia-post-next with-image' href='https://www.gcit.net/blog/it-hurricane-preparedness-plan' >    <span class='label iconfont' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>    <span class='entry-info-wrap'>        <span class='entry-info'>            <span class='entry-image'><img width="80" height="80" src="https://www.gcit.net/wp-content/uploads/2021/08/All-Your-Questions-About-Creating-an-IT-Hurricane-Preparedness-Plan-Answered-80x80.jpeg" class="wp-image-3177 avia-img-lazy-loading-3177 attachment-thumbnail size-thumbnail wp-post-image" alt="Office computers in a flooded room that did not follow a proper IT hurricane preparedness plan" loading="lazy" srcset="https://www.gcit.net/wp-content/uploads/2021/08/All-Your-Questions-About-Creating-an-IT-Hurricane-Preparedness-Plan-Answered-80x80.jpeg 80w, https://www.gcit.net/wp-content/uploads/2021/08/All-Your-Questions-About-Creating-an-IT-Hurricane-Preparedness-Plan-Answered-36x36.jpeg 36w, https://www.gcit.net/wp-content/uploads/2021/08/All-Your-Questions-About-Creating-an-IT-Hurricane-Preparedness-Plan-Answered-180x180.jpeg 180w" sizes="(max-width: 80px) 100vw, 80px" /></span>            <span class='entry-title'>All Your Questions About Creating an IT Hurricane Preparedness Plan, Answer...</span>        </span>    </span></a><!-- end wrap_all --></div>
+
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. <a role='button' tabindex='0' class="cli_settings_button" style="margin:5px 20px 5px 20px;" >Cookie settings</a><a role='button' tabindex='0' data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block;  margin:5px; ">ACCEPT</a></span></div><div id="cookie-law-info-again" style="display:none;" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+	  	<button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Close</span>
+	  	</button>
+	  	<div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore"  aria-label="Show more" tabindex="0" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+							<div class="wt-cli-necessary-checkbox">
+                        <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+                        <label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+                    </div>
+                    <span class="cli-necessary-caption">Always Enabled</span> 						</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+								Non-necessary							</a>
+							<div class="cli-switch">
+                        <input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary"  checked='checked' />
+                        <label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
+                    </div>						</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+								<div class="wt-cli-cookie-description">
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+	  	</div>
+	  	<div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE & ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5D4X6T4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="e89bb633b00a1e926bbe82b9-text/javascript">
+_linkedin_partner_id = "2435473";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="e89bb633b00a1e926bbe82b9-text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2435473&fmt=gif" />
+</noscript>
+ <script type="e89bb633b00a1e926bbe82b9-text/javascript">
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://www.gcit.net/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://www.gcit.net/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://www.gcit.net/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/avia.js?ver=4.8.7' id='avia-default-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/shortcodes.js?ver=4.8.7' id='avia-shortcodes-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.js?ver=5.8.2' id='avia-module-audioplayer-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.js?ver=5.8.2' id='avia-module-contact-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=5.8.2' id='avia-module-slideshow-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.js?ver=5.8.2' id='avia-module-countdown-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=5.8.2' id='avia-module-gallery-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.js?ver=5.8.2' id='avia-module-gallery-hor-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.js?ver=5.8.2' id='avia-module-rotator-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.js?ver=5.8.2' id='avia-module-icongrid-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.js?ver=5.8.2' id='avia-module-iconlist-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.js?ver=5.8.2' id='avia-module-hotspot-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.js?ver=5.8.2' id='avia-module-magazine-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.js?ver=5.8.2' id='avia-module-isotope-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.js?ver=5.8.2' id='avia-module-masonry-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.js?ver=5.8.2' id='avia-module-menu-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.js?ver=5.8.2' id='avia-module-notification-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.js?ver=5.8.2' id='avia-module-numbers-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.js?ver=5.8.2' id='avia-module-portfolio-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.js?ver=5.8.2' id='avia-module-progress-bar-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=5.8.2' id='avia-module-slideshow-video-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.js?ver=5.8.2' id='avia-module-slideshow-accordion-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.js?ver=5.8.2' id='avia-module-slideshow-fullscreen-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.js?ver=5.8.2' id='avia-module-slideshow-ls-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.js?ver=5.8.2' id='avia-module-tabsection-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=5.8.2' id='avia-module-tabs-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=5.8.2' id='avia-module-testimonials-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.js?ver=5.8.2' id='avia-module-timeline-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=5.8.2' id='avia-module-toggles-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=5.8.2' id='avia-module-video-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.gcit.net\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.2' id='contact-form-7-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/plugins/dynamicconditions/Public/js/dynamic-conditions-public.js?ver=1.5.1' id='dynamic-conditions-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" id='leadin-script-loader-js-js-extra'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"post","leadinPluginVersion":"8.4.329"};
+/* ]]> */
+</script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://js.hs-scripts.com/20650060.js?integration=WordPress' async defer id='hs-script-loader'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/avia-snippet-hamburger-menu.js?ver=4.8.7' id='avia-hamburger-menu-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.8.7' id='avia-popup-js-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=4.8.7' id='avia-lightbox-activation-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/avia-snippet-megamenu.js?ver=4.8.7' id='avia-megamenu-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=4.8.7' id='avia-sticky-header-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/avia-snippet-footer-effects.js?ver=4.8.7' id='avia-footer-effects-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/avia-snippet-site-preloader.js?ver=4.8.7' id='avia-siteloader-js-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=4.8.7' id='avia-widget-js-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.js?ver=4.8.7' id='avia_blocks_front_script-js'></script>
+<script type="e89bb633b00a1e926bbe82b9-text/javascript" src='https://www.gcit.net/wp-includes/js/wp-embed.min.js?ver=5.8.2' id='wp-embed-js'></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="e89bb633b00a1e926bbe82b9-|49" defer=""></script></body>
+</html>
